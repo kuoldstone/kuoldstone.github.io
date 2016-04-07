@@ -1,5 +1,5 @@
-#navigation,.navbar .navbar-default{
-  background-image: url("img/home-bg.jpg");
+.navbar-custom{
+	background-color: transparent;
 }
 
 /*div{
