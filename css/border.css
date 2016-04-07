@@ -1,6 +1,7 @@
 .navbar-custom{
 	background: transparent;
-	border-style: hidden;
+	border-width:0px;
+	
 }
 
 /*div{
